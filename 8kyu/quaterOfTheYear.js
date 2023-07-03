@@ -4,7 +4,7 @@
 // Constraint:
 // 1 <= month <= 12
 
-// my solution
+// my solution.
 const quarterOf = (month) => {
   if(month <= 3){
     return 1

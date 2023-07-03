@@ -9,7 +9,7 @@
 // [2334454,5] --> [5,2334454]
 // [1]         --> [1,1]
 
-// my solution
+// my solution.
 
 
 function minMax(arr){

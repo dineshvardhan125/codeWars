@@ -4,7 +4,7 @@
 // 6, "I"     -> "IIIIII"
 // 5, "Hello" -> "HelloHelloHelloHelloHello"
 
-// my soluton
+// my soluton.
 
 function repeatStr (n, s) {
   let ans = ''

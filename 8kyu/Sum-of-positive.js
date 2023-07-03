@@ -5,7 +5,7 @@
 // Note: if there is nothing to sum, the sum is default to 0.
 
 
-// my solution
+// my solution.
 
 function positiveSum(arr) {
   let filterArr = arr.filter(a => a >= 0)

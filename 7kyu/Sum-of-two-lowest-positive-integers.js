@@ -4,7 +4,7 @@
 
 // [10, 343445353, 3453445, 3453545353453] should return 3453455.
 
-// my solution
+// my solution.
 
 function sumTwoSmallestNumbers(arr) {  
   let sortedArr = arr.sort((a,b)=>a-b)
