@@ -39,7 +39,7 @@ function getDivisorsCnt(n){
 }
 
 
-// another one
+// another one.
 
 function getDivisorsCnt(n){
   let count=0;
