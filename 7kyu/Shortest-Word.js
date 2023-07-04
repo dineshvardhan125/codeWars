@@ -3,7 +3,7 @@
 
 // String will never be empty and you do not need to account for different data types.
 
-// my solution
+// my solution.
 function findShort(s){
   let arr = s.split(' ')
   let small = arr[0]
