@@ -10,7 +10,7 @@
 // (-1, 0) --> -1 (-1 + 0 = -1)
 // (-1, 2) --> 2 (-1 + 0 + 1 + 2 = 2)
 
-// my solution
+// my solution.
 
 function getSum(a, b){
   if(a > b){
