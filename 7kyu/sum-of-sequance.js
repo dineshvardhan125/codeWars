@@ -12,7 +12,7 @@
 // 1,5,1 --> 15 (1 + 2 + 3 + 4 + 5)
 // 1,5,3  --> 5 (1 + 4)
 
-// my solution
+// my solution.
 
 
 const sequenceSum = (begin, end, step) => {
