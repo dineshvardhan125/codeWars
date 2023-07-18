@@ -5,7 +5,7 @@
 
 // If begin value is greater than the end, your function should return 0. If end is not the result of an integer number of steps, then don't add it to the sum. See the 4th example below.
 
-// Examples
+// Examples.
 
 // 2,2,2 --> 2
 // 2,6,2 --> 12 (2 + 4 + 6)
