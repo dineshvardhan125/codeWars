@@ -4,7 +4,7 @@
 // "This is an example!" ==> "sihT si na !elpmaxe"
 // "double  spaces"      ==> "elbuod  secaps"
 
-// my solution
+// my solution.
 
 function reverseWords(string) {
   let words = string.split(' ');
