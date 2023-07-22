@@ -13,7 +13,7 @@
 // toIndustrial("1:45") => 1.75
 // toNormal(0.33) => "0:20"
 
-// my solution
+// my solution.
 
 function toIndustrial(time){
   if (typeof time === "number") {
