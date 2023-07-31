@@ -6,7 +6,7 @@
 // toNormal(time) should accept a double representing decimal time in hours. Return a string that represents standard time in the format "h:mm".
 // There will be no seconds in the tests. We'll neglect them for the purpose of this kata.
 
-// Flavor text (click to expand).
+// Flavor text (click to expand)
 
 // Examples:
 // toIndustrial(1) => 0.02
