@@ -4,7 +4,7 @@
 
 // The input will always be valid (numbers will be an array of length 2 or greater, and all of the items will be numbers; target will always be the sum of two different items from that array).
 
-// my solution
+// my solution.
 function twoSum(numbers, target) {
   const numMap = new Map();
   for (let i = 0; i < numbers.length; i++) {
