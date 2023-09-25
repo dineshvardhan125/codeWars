@@ -35,7 +35,7 @@ function getDivisorsCnt(n){
     if(n%i==0){res.push(i); res.push(n/i);}
   }
   res = Array.from(new Set(res));
-  return res.length
+  return res.length;
 }
 
 
