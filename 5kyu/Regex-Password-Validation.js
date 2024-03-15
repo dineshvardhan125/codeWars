@@ -33,4 +33,4 @@ function validate(password) {
   return true;
 }
 
-//end
+//end friend
