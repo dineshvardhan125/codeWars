@@ -32,3 +32,5 @@ function validate(password) {
   }
   return true;
 }
+
+//end
